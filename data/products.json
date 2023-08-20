@@ -2,16 +2,16 @@
   "products": [
     {
       "id": 1,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "130",
-      "url": "./images/product-1.png",
+      "title": "ADIDAS Premium - Yellow Jacket",
+      "price": "3000",
+      "url": "./images/jacket1.png",
       "category": "Dresses"
     },
     {
       "id": 2,
       "title": "Armani Frok Ladies -  Imported Fork Blue",
       "price": "210",
-      "url": "./images/product-2.png",
+      "url": "./images/j2.png",
       "category": "Dresses"
     },
     {
@@ -19,34 +19,34 @@
       "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
       "price": "90",
       "url": "./images/product-3.png",
-      "category": "Jewellery"
+      "category": "Dresses"
     },
     {
       "id": 4,
       "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
       "price": "100",
-      "url": "./images/product-4.png",
+      "url": "./images/cpu1.png",
       "category": "Jewellery"
     },
     {
       "id": 5,
       "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
       "price": "100",
-      "url": "./images/product-5.png",
+      "url": "./images/j1.png",
       "category": "Dresses"
     },
     {
       "id": 6,
       "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
       "price": "50",
-      "url": "./images/product-6.png",
+      "url": "./images/play1.png",
       "category": "Accessories"
     },
     {
       "id": 7,
       "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
       "price": "50",
-      "url": "./images/product-7.png",
+      "url": "./images/shoe1.png",
       "category": "Footwear"
     },
     {
@@ -88,7 +88,7 @@
       "id": 13,
       "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
       "price": "900",
-      "url": "./images/product-13.png",
+      "url": "./images/watch3.png",
       "category": "Accessories"
     },
     {

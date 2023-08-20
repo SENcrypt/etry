@@ -740,6 +740,11 @@ img {
 .footer .row .col .logo {
   margin-bottom: 2.5rem;
 }
+.tr{
+  margin-right:-150px;
+  width:75%;
+  height:40%;
+}
 .footer .row .col:first-child p {
   margin-bottom: 2rem;
   color: #4f5665;
