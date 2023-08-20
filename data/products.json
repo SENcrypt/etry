@@ -9,106 +9,106 @@
     },
     {
       "id": 2,
-      "title": "Armani Frok Ladies -  Imported Fork Blue",
-      "price": "210",
+      "title": "Jhumka Earrings",
+      "price": "1000",
       "url": "./images/j2.png",
-      "category": "Dresses"
+      "category": "Jewellery"
     },
     {
       "id": 3,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "90",
+      "title": "Title- Product Name",
+      "price": "1000",
       "url": "./images/product-3.png",
       "category": "Dresses"
     },
     {
       "id": 4,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "100",
+      "title": "CPU-Quad Core Dual Processor",
+      "price": "1000",
       "url": "./images/cpu1.png",
-      "category": "Jewellery"
+      "category": "Accessories"
     },
     {
       "id": 5,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "title": "Jewellery -  Product Name",
       "price": "100",
       "url": "./images/j1.png",
-      "category": "Dresses"
+      "category": "Jewellery"
     },
     {
       "id": 6,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "50",
+      "title": "Tech- PlayStation 5",
+      "price": "1000",
       "url": "./images/play1.png",
       "category": "Accessories"
     },
     {
       "id": 7,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "50",
+      "title": "Air Jordan - Red Panther",
+      "price": "500",
       "url": "./images/shoe1.png",
       "category": "Footwear"
     },
     {
       "id": 8,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "title": "Product - Title",
       "price": "300",
       "url": "./images/product-8.png",
       "category": "Footwear"
     },
     {
       "id": 9,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "300",
+      "title": "Product - Title",
+      "price": "1000",
       "url": "./images/product-9.png",
       "category": "Footwear"
     },
     {
       "id": 10,
-      "title": "ROG Headphone - Model 25",
-      "price": "300",
+      "title": "Product - Title",
+      "price": "1000",
       "url": "./images/product-10.png",
       "category": "Accessories"
     },
     {
       "id": 11,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "700",
+      "title": "Product - Title",
+      "price": "1000",
       "url": "./images/product-11.png",
       "category": "Accessories"
     },
     {
       "id": 12,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "500",
+      "title": "Product - Title",
+      "price": "1000",
       "url": "./images/product-12.png",
       "category": "Accessories"
     },
     {
       "id": 13,
-      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
-      "price": "900",
+      "title": "Apple - Smart iWatch",
+      "price": "1000",
       "url": "./images/watch3.png",
       "category": "Accessories"
     },
     {
       "id": 14,
-      "title": "ROG Headphone - Model 25",
-      "price": "100",
+      "title": "Product - Title",
+      "price": "1000",
       "url": "./images/product-14.png",
       "category": "Accessories"
     },
     {
       "id": 15,
-      "title": "ROG Headphone - Model 25",
-      "price": "250",
+      "title": "Product - Title",
+      "price": "1000",
       "url": "./images/product-15.png",
       "category": "Accessories"
     },
     {
       "id": 16,
-      "title": "ROG Headphone - Model 25",
-      "price": "350",
+      "title": "Product - Title",
+      "price": "1000",
       "url": "./images/product-16.png",
       "category": "Accessories"
     }
